@@ -1,5 +1,17 @@
 # 🚗 Motorway Toll Dashboard
 
+---
+
+## 🌐 Live Demo
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+Explore the live version of this project hosted on Vercel:
+
+[https://motorway-toll.vercel.app/](https://motorway-toll.vercel.app/)
+
+---
+
 ## 🌟 Overview
 The **Motorway Toll Dashboard** is a cutting-edge web application designed to monitor and analyze vehicle data on motorways. It provides real-time insights, analytics, and management tools for vehicle tracking, entry/exit logs, and more. This project is built with modern web technologies to ensure scalability, performance, and ease of use.
 
@@ -80,3 +92,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🌐 Connect
 
 If you like this project, don't forget to give it a ⭐ on GitHub!
+
+---
